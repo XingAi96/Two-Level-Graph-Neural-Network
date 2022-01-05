@@ -1,5 +1,4 @@
 # Two-Level-Graph-Neural-Network
-# SUGAR
 
 Code for "[Two-Level-Graph-Neural-Network](https://arxiv.org/abs/2101.)"
 
